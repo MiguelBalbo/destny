@@ -29,3 +29,5 @@ Já para as imagens, elas foram escolhidas do banco de imagens do Freepik e do P
 • Letícia Ribeiro ; <br>
 • Maksim Goncharenok ; <br>
 • Olia Danielevich. <br>
+
+## [Preview](https://miguelbalbo.github.io/destny/html/index.html)
